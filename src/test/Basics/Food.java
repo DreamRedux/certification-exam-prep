@@ -1,4 +1,4 @@
-package test;
+package test.Basics;
 
 public class Food extends Product{
 	

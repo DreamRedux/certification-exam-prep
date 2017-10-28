@@ -1,4 +1,4 @@
-package test; 
+package test.Basics; 
 
 public class Product {
 	private static int maxId;
